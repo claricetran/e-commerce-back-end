@@ -32,7 +32,7 @@ To use this, follow these steps:
 
 Then using an application like Insomnia, you're able to view the CRUD functionality.
 
-![usage image]()
+![usage image](https://github.com/claricetran/e-commerce-back-end/blob/main/assets/images/ecommercebackendusage.gif?raw=true)
 
 ## Credits
 
